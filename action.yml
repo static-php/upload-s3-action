@@ -1,4 +1,4 @@
-name: Upload S3
+name: Upload S3 (Customized with single-file upload)
 description: 'Upload directory to S3'
 author: 'Dong Keon Kim'
 branding:
